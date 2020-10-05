@@ -6,3 +6,5 @@
   
 - use VScode to link Github
 
+- run successfully and  try other functions in VScode
+
